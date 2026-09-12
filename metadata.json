@@ -1,0 +1,6 @@
+{
+  "name": "JETOUR Global",
+  "description": "Recreation of JETOUR Global official website with the authentic Travel+ philosophy, intelligent SUV lineup (G700, T2, T1, Dashing, X70 Plus, X90 Plus), interactive 360-degree vehicle configurator, media center, and global dealer network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
